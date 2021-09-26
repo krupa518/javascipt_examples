@@ -1,0 +1,4 @@
+function fun_one(){
+return "welcome to js";
+}
+console.log(fun_one());
